@@ -16,7 +16,7 @@ To run the project, follow these steps:
 1. Clone the repository
 2. Install dependencies using npm install
 3. Start the JSON-server by running npx json-server --watch db.json
-4. In a separate terminal, start the React development server using npm start
+4. In a separate terminal, start the React development server using npm run dev
 5. Ready to see the app in action.
 
 **Note**: It is important to start the JSON-server before starting the React development server in order to fetch and display data correctly.
