@@ -1,0 +1,40 @@
+{
+  "clients": [
+    {
+      "name": "Kevin (UPDATED)",
+      "company": "Apple",
+      "email": "kevin@kevin.com",
+      "phone": "102013313",
+      "notes": "lorem ipsum",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Brian",
+      "phone": 403013813,
+      "email": "brian@brian.com",
+      "company": "Samsung"
+    },
+    {
+      "id": 3,
+      "name": "Katherine",
+      "phone": 792014413,
+      "email": "katherine@gmail.com",
+      "company": "Xiaomi"
+    },
+    {
+      "id": 4,
+      "name": "Jennnifer",
+      "phone": 121797456,
+      "email": "jennifer@outlook.com",
+      "company": "Nokia"
+    },
+    {
+      "id": 5,
+      "name": "Camila",
+      "phone": 662046399,
+      "email": "camila@gmail.com",
+      "company": "Motorola"
+    }
+  ]
+}
