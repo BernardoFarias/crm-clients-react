@@ -19,7 +19,7 @@ To run the project, follow these steps:
 4. In a separate terminal, start the React development server using npm start
 5. Ready to see the app in action.
 
-Note: It is important to start the JSON-server before starting the React development server in order to fetch and display data correctly.
+**Note**: It is important to start the JSON-server before starting the React development server in order to fetch and display data correctly.
 
 ## Features
 
